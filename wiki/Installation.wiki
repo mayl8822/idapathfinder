@@ -1,8 +1,8 @@
-#summary Installation instructions.
+#summary Installation instructions
 
 = Installation =
 
-You may either copy the idapthfinder.py and pathfinder.py files into IDA's plugins and python directories respectively, or use the included installer script:
+You may either copy the _idapthfinder.py_ and _pathfinder.py_ files into IDA's _plugins_ and _python_ directories respectively, or use the included installer script:
 
 {{{
 $ ./install.py /path/to/ida/install/directory

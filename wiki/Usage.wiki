@@ -1,4 +1,4 @@
-#summary Example usage.
+#summary Example usage
 
 = Graphing =
 
