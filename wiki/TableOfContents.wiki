@@ -2,5 +2,5 @@
 
   * [idapathfinder Quick start guide]
     * [idapathfinder#Installation Installation]
-    * [idapathfinder#Usage Basic usage]
+    * [idapathfinder#Usage Usage]
     * [idapathfinder#Filters Graph filters]
