@@ -1,0 +1,6 @@
+#summary Wiki table of contents
+
+  * [idapathfinder Quick start guide]
+    * [idapathfinder#Installation Installation]
+    * [idapathfinder#Usage Basic usage]
+    * [idapathfinder#Filters Graph filters]
