@@ -35,6 +35,6 @@ Nodes can be dynamically included or excluded using the right-click menu:
 <br />
 To show only paths that traverse a certain node, select the *Include node* option and click on the desired node.
 
-To exclude all paths that travers a certain node, select the *Exclude node* option and click on the desired node.
+To exclude all paths that traverse a certain node, select the *Exclude node* option and click on the desired node.
 
 Include and exclude actions can be undone (but there is no re-do). Optionally, the graph can also be reset to its original state.
