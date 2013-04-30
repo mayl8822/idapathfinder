@@ -12,7 +12,7 @@ When prompted, enter the name of the target function you wish to find paths to:
 <img src="https://idapathfinder.googlecode.com/svn/wiki/images/strcpy.png" />
 
 <br />
-Nodes with direct calls to the target function will be highlighted. Double clicking on any node will take you to that function in the disassembly window:
+Nodes with direct calls to the target function will be highlighted. Double clicking on any node will take you to that function in the disassembly:
 
 <img src="https://idapathfinder.googlecode.com/svn/wiki/images/call_graph.png" />
 <br />
@@ -25,8 +25,8 @@ Nodes can be dynamically included or excluded using the right-click menu:
 <img src="https://idapathfinder.googlecode.com/svn/wiki/images/right_click_menu.png" />
 
 <br />
-To show only paths that traverse a certain node, select the *Include* option and click on the desired node:
+To show only paths that traverse a certain node, select the *Include Node* option and click on the desired node.
 
-To exclude all paths that travers a certain node, select the *Exclude* option and click on the desired node:
+To exclude all paths that travers a certain node, select the *Exclude Node* option and click on the desired node.
 
-Include and exclude actions can be undone (but there is no re-do), and the graph can also be reset to its original state.
+Include and exclude actions can be undone (but there is no re-do). Optionally, the graph can also be reset to its original state.
