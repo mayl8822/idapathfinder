@@ -7,7 +7,6 @@ You may either copy the _idapthfinder.py_ and _pathfinder.py_ files into IDA's _
 {{{
 $ ./install.py /path/to/ida/install/directory
 }}}
-<br />
 
 = Usage =
 
