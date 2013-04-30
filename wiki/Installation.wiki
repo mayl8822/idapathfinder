@@ -1,4 +1,4 @@
-#summary idapathfinder installation
+#summary Installation instructions.
 
 = Installation =
 
